@@ -9,7 +9,6 @@
 
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
-from dateutil.rrule import *
 import requests
 from BeautifulSoup import BeautifulSoup
 import logging
