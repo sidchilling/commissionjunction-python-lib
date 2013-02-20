@@ -5,7 +5,7 @@ This is a python script to retrieve from Commission Junction the amount of commi
 over a period of time broken down by the advertiser ids.
 
 A publisher will need to sign up for developer access on CJ to get a developer key which will be used in the 
-script. 
+script. You can signup here: https://api.cj.com/sign_up.cj
 
 To retrieve the commission from each advertiser within a specific time period, you can use this script. An example
 is shown below -
